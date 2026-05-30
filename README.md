@@ -15,7 +15,7 @@ The project investigates whether posting more TikToks directly leads to higher f
 | `Top 100 tiktokers in 2025.csv` | Dataset containing ranking, follower counts, uploads, likes, and following information for the Top 100 TikTok creators in 2025. |
 | `TikTok_Analytics_Report.pdf`   | Final written report summarizing findings, interpretations, and visualizations from the TikTok analytics project.               |
 | `README.md`                     | Project overview, methodology, tools used, visualizations, key findings, and repository documentation. 
-|
+
 ---
 
 ## Objectives
